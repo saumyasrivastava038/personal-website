@@ -239,6 +239,7 @@ li {
 .hero {
   position: absolute;
   top: 50%;
+  left: -3% !important;
   transform: translate(25%, -50%);
   color: #fff;
 }
@@ -307,7 +308,7 @@ li {
 .icons {
   position: absolute;
   bottom: 5%;
-  left: 5%;
+  left: 2%;
   color: #fff;
 }
 
